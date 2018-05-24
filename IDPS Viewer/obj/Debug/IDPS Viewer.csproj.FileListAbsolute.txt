@@ -1,0 +1,9 @@
+c:\users\3de echelon\documents\visual studio 2013\Projects\IDPS Viewer\IDPS Viewer\bin\Debug\IDPS Viewer.exe.config
+c:\users\3de echelon\documents\visual studio 2013\Projects\IDPS Viewer\IDPS Viewer\bin\Debug\IDPS Viewer.exe
+c:\users\3de echelon\documents\visual studio 2013\Projects\IDPS Viewer\IDPS Viewer\bin\Debug\IDPS Viewer.pdb
+c:\users\3de echelon\documents\visual studio 2013\Projects\IDPS Viewer\IDPS Viewer\obj\Debug\IDPS Viewer.csprojResolveAssemblyReference.cache
+c:\users\3de echelon\documents\visual studio 2013\Projects\IDPS Viewer\IDPS Viewer\obj\Debug\IDPS_Viewer.Form1.resources
+c:\users\3de echelon\documents\visual studio 2013\Projects\IDPS Viewer\IDPS Viewer\obj\Debug\IDPS_Viewer.Properties.Resources.resources
+c:\users\3de echelon\documents\visual studio 2013\Projects\IDPS Viewer\IDPS Viewer\obj\Debug\IDPS Viewer.csproj.GenerateResource.Cache
+c:\users\3de echelon\documents\visual studio 2013\Projects\IDPS Viewer\IDPS Viewer\obj\Debug\IDPS Viewer.exe
+c:\users\3de echelon\documents\visual studio 2013\Projects\IDPS Viewer\IDPS Viewer\obj\Debug\IDPS Viewer.pdb
